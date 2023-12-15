@@ -1,2 +1,2 @@
 # udemy_git_training
-this id for gittraing
+this is for gittraing
